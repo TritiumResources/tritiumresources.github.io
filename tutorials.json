@@ -1,0 +1,28 @@
+{
+  "linkModule": [
+	{
+      "name": "Arm Grab Escape Self Defense Tutorial",
+      "link": "arm-hold.html",
+      "download": "Tutorials/ArmGrab.pdf",
+      "thumbnail": "Tutorials/ArmGrabThumbnail.png",
+      "description": "How to escape various situations where your arms are grabbed. Includes pictures!",
+	  "newTab": false
+    },
+	{
+      "name": "Bear Hug Escape Self Defense Tutorial",
+      "link": "bear-hug.html",
+      "download": "Tutorials/BearHug.pdf",
+      "thumbnail": "Tutorials/BearHugThumbnail.png",
+      "description": "How to escape a Bear Hug from a couple different positions. Includes pictures!",
+	  "newTab": false
+    },
+	{
+      "name": "COMING SOON: Disability Education",
+      "link": "#",
+      "download": "",
+      "thumbnail": "Images/ComingSoon.png",
+      "description": "COMING SOON: Tutorials and Technology for educating disabled students.",
+	  "newTab": false
+    }
+  ]
+}

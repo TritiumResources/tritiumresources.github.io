@@ -1,0 +1,20 @@
+{
+  "linkModule": [
+    {
+      "name": "Notes on Let This Radicalize You by Kelly Hayes and Mariame Kaba",
+      "link": "let-this-radicalize-you.html",
+      "download": "Resources/radical.pdf",
+      "thumbnail": "Resources/radicalThumbnail.png",
+      "description": "My notes/summary of the main chapters in the book Let This Radicalize You. It's a book about activism, organization, and what ultimately keeps your movements for social change going.",
+	  "newTab": false
+    },
+	{
+      "name": "COMING SOON: Nuclear Power",
+      "link": "#",
+      "download": "",
+      "thumbnail": "Images/ComingSoon.png",
+      "description": "COMING SOON: A paper arguing in favor of Nuclear Power and how it will play an important role in undoing Climate Change.",
+	  "newTab": false
+    }
+  ]
+}

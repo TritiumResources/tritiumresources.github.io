@@ -1,0 +1,60 @@
+{
+  "linkModule": [
+    {
+      "name": "Good News articles from LGBTQ Nation",
+      "link": "https://www.lgbtqnation.com/tag/good-news/",
+      "download": "",
+      "thumbnail": "Archival/GoodNews/goodNewsNation.png",
+      "description": "Articles from LGBTQ Nation tagged with \"Good News\". Look through if you need a little hope!",
+	  "newTab": true
+    },
+	{
+      "name": "Trillions of dollars in Federal Aid were unfrozen.",
+      "link": "https://www.cnn.com/2025/01/29/politics/white-house-rescind-federal-funding-freeze/index.html",
+      "download": "Archival/GoodNews/aidFreeze.pdf",
+      "thumbnail": "Archival/GoodNews/aidFreeze.png",
+      "description": "A CNN article talking about how the White House rescinded a Federal Aid Freeze after it caused a lot of confusion.",
+	  "newTab": true
+    },
+	{
+      "name": "Massachusetts officials protecting Trans Students.",
+      "link": "https://www.msn.com/en-us/news/us/mass-officials-say-they-will-legally-protect-transgender-students/ar-AA1xh88O",
+      "download": "Archival/GoodNews/massOfficials.pdf",
+      "thumbnail": "Archival/GoodNews/massOfficials.png",
+      "description": "Despite a Federal Judge rescinding Title IX protections for trans students, Massachussets officials will continue to employ those protections.",
+	  "newTab": true
+    },
+	{
+      "name": "Sarah Mcbride becomes Deputy Whip",
+      "link": "https://www.lgbtqnation.com/2025/01/sarah-mcbride-named-deputy-whip-for-policy-for-house-democrats/",
+      "download": "Archival/GoodNews/mcBride.pdf",
+      "thumbnail": "Archival/GoodNews/mcBride.png",
+      "description": "An LGBTQ Nation article discussing how the first transgender person in congress, Sarah Mcbride, just became Deputy Whip.",
+	  "newTab": true
+    },
+	{
+      "name": "Virginia Senate rejects three anti-trans bills.",
+      "link": "https://www.washingtonblade.com/2025/01/24/va-senate-committee-tables-three-anti-transgender-bills/",
+      "download": "Archival/GoodNews/vaSenate.pdf",
+      "thumbnail": "Archival/GoodNews/vaSenate.png",
+      "description": "A Washington Blade article about how the VA Senate Health and Education Committee shot down three anti-trans bills, including one about banning trans athletes in schools.",
+	  "newTab": true
+    },
+	{
+      "name": "Worcestor Citizens show support for Nonbinary Councilor",
+      "link": "https://www.msn.com/en-us/news/us/do-better-or-step-aside-supporters-rally-for-nonbinary-worcester-councilor/ar-AA1xCZkv",
+      "download": "Archival/GoodNews/worcester.pdf",
+      "thumbnail": "Archival/GoodNews/worcester.png",
+      "description": "In the face of blatant Transphobia, over a hundred people rallied behind Councilor Thu Nguyen, showing support for them.",
+	  "newTab": true
+    },
+	{
+      "name": "Michigan's Hate Crime law now include LGBTQ people.",
+      "link": "https://www.lgbtqnation.com/2025/01/michigan-expands-hate-crime-law-to-protect-lgbtq-identities/",
+      "download": "Archival/GoodNews/hateCrimeMichigan.pdf",
+      "thumbnail": "Archival/GoodNews/hateCrimeMichigan.png",
+      "description": "An LGBTQ Nation article covering Michigan's updated Hate Crime law, which includes LGBTQ people and other marginalized groups.",
+	  "newTab": true
+    }
+  ]
+}

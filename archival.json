@@ -1,0 +1,28 @@
+{
+  "linkModule": [
+    {
+      "name": "Compilation of Anti-Trans acts during Trump's presidency",
+      "link": "anti-trans-acts.html",
+      "download": "",
+      "thumbnail": "Archival/AntiTransActs/passportBan.png",
+      "description": "A list of Trump's anti-trans Presidential Actions and Executive orders as well as a few pertinent pieces of information and leaks.",
+	  "newTab": false
+    },
+	{
+      "name": "Misinformation Surrounding Hergie Bacyadan",
+      "link": "bacyadan.html",
+      "download": "Archival/bacyadan.pdf",
+      "thumbnail": "Archival/bacyadan.png",
+      "description": "A writeup of journalistic misinformation and how I found out that Hergie Bacyadan supports his fellow athletes.",
+	  "newTab": false
+    },
+	{
+      "name": "Some positive news about Trans rights",
+      "link": "good-news.html",
+      "download": "",
+      "thumbnail": "Archival/GoodNews/hateCrimeMichigan.png",
+      "description": "Some recent trans-positive events. This isn't intended to distract from the evil happening, but rather something to give you a little hope.",
+	  "newTab": false
+    }
+  ]
+}

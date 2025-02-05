@@ -1,0 +1,9 @@
+{
+    "markdownModule": [
+    {
+      "source": "Resources/radical.md",
+      "download": "Resources/radical.pdf",
+	  "description": "Download these Notes!"
+    }
+  ]
+}

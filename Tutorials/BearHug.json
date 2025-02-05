@@ -1,0 +1,9 @@
+{
+    "markdownModule": [
+    {
+      "source": "Tutorials/BearHug.md",
+      "download": "Tutorials/BearHug.pdf",
+	  "description": "Download this Tutorial!"
+    }
+  ]
+}
