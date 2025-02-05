@@ -2,7 +2,7 @@
   "linkModule": [
 	{
       "name": "Arm Grab Escape Self Defense Tutorial",
-      "link": "arm-hold.html",
+      "link": "/content?id=Tutorials/ArmGrab",
       "download": "Tutorials/ArmGrab.pdf",
       "thumbnail": "Tutorials/ArmGrabThumbnail.png",
       "description": "How to escape various situations where your arms are grabbed. Includes pictures!",
@@ -10,7 +10,7 @@
     },
 	{
       "name": "Bear Hug Escape Self Defense Tutorial",
-      "link": "bear-hug.html",
+      "link": "/content?id=Tutorials/BearHug",
       "download": "Tutorials/BearHug.pdf",
       "thumbnail": "Tutorials/BearHugThumbnail.png",
       "description": "How to escape a Bear Hug from a couple different positions. Includes pictures!",

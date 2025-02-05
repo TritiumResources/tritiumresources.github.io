@@ -28,6 +28,8 @@
 <script src="scrollToTop.js"></script>
 <script type="module" src="https://md-block.verou.me/md-block.js"></script>
 <script>
-	getData("Tutorials/BearHug.json");
+	let params = new URLSearchParams(document.location.search);
+	let id = params.get("id");
+	getData(id+".json");
 </script>
 </html>
