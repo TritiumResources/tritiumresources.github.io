@@ -89,6 +89,14 @@
 	  "newTab": true
     },
 	{
+      "name": "NSF retracts funding from projects that involve Racial Justice and Gender.",
+      "link": "https://www.washingtonpost.com/science/2025/02/04/national-science-foundation-trump-executive-orders-words/",
+      "download": "Archival/AntiTransActs/nsfRetraction.pdf",
+      "thumbnail": "Archival/AntiTransActs/nsfRetraction.png",
+      "description": "A Washington Post article revealing that the National Science Foundation is going through active projects and stopping any research that mentions a few key words, including \"trauma, equity, barriers, disability, gender, historically, minority, and women\", in response to Trump's DEI bans and \"two sexes\" restriction. Similar to the book banning and CDC retractions, this is an attempt to delegitimize the struggles of racial minorities and the LGBTQ community, erasing them from what's accepted as \"mainstream\" science.",
+	  "newTab": true
+    },
+	{
       "name": "Project 2025.",
       "link": "https://en.wikipedia.org/wiki/Project_2025",
       "download": "https://archive.org/details/2025_MandateForLeadership_FULL",
