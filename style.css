@@ -308,6 +308,7 @@ html
   padding: 0;
   vertical-align: sub;
   height:1.5rem;
+  cursor:pointer;
 }
 
 .downloadLink
