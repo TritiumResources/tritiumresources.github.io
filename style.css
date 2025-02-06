@@ -362,4 +362,7 @@ button {
   border-radius:10px;
 }
 
-
+a
+{
+	cursor:pointer;
+}
