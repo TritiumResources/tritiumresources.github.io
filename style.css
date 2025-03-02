@@ -177,8 +177,8 @@
 	font-size:4vh;
 	height:6.7vh;
 	width:6.7vh;
-	opacity:0.4;
-	filter:alpha(opacity=40);
+	opacity:0.65;
+	filter:alpha(opacity=65);
 	display:block;
 	border: 10% var(--bar-color);
 }
