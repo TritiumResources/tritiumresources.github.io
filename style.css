@@ -16,7 +16,6 @@
 #headerbar, #headerbarsmall
 {
 	color:black;
-	font-family:"OpenDyslexic";
 	display:flex;
 	flex-wrap:wrap;
 	background-color:var(--bar-color);
@@ -102,7 +101,6 @@
 
 #verticalMenu
 {
-	font-family:"OpenDyslexic";
 	margin:auto;
 	padding-top:2.5vh;
 	display:flex;
@@ -120,7 +118,6 @@
 #backVertical
 {
 	text-decoration:underline;
-	font-family:"OpenDyslexic";
 	font-size:5vh;
 	padding-left:10%
 }
@@ -150,7 +147,6 @@
 
 #footerbar
 {
-	font-family:"OpenDyslexic";
 	background-color:var(--bar-color);
 	margin-top:auto;
 	width:100%;
@@ -169,6 +165,27 @@
 	min-width:8.5vh;
 	margin-right:2vh;
 	color:black;
+}
+
+#fontButton
+{
+	border-radius: 50%;
+	background-color:var(--bar-color);
+	position:fixed;
+	right:5%;
+	top:12%;
+	font-size:4vh;
+	height:6.7vh;
+	width:6.7vh;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	display:block;
+	border: 10% var(--bar-color);
+}
+#fontButton:hover
+{
+	opacity:1.0;
+	filter: alpha(opacity=100);
 }
 
 
@@ -195,7 +212,7 @@ html
 	background-attachment:fixed;
 	padding:0;
 	margin:0;
-	
+	font-family: "OpenDyslexic";
 }
 
 
@@ -217,7 +234,6 @@ html
 	flex-direction:column;
 	background-color:var(--item-color);
 	justify-content:center;
-	font-family: "OpenDyslexic";
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:2.5%;
@@ -313,7 +329,6 @@ html
 
 .downloadLink
 {
-	font-family: "OpenDyslexic";
 	font-size:1.25rem;
 	text-align:center;
 	text-decoration:underline;
@@ -324,7 +339,7 @@ html
 md-block 
 {
 	max-width:90%;
-	font-family: "OpenDyslexic";
+	
 }
 
 md-block *
