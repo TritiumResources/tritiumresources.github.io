@@ -9,11 +9,11 @@
 	  "newTab": false
     },
 	{
-      "name": "COMING SOON: Nuclear Power",
-      "link": "#",
-      "download": "",
-      "thumbnail": "Images/ComingSoon.png",
-      "description": "COMING SOON: A paper arguing in favor of Nuclear Power and how it will play an important role in undoing Climate Change.",
+      "name": "The Case for Nuclear Power",
+      "link": "/content?id=Resources/nuclear",
+      "download": "Resources/nuclear.pdf",
+      "thumbnail": "Resources/nuclearThumbnail.png",
+      "description": "A research paper I wrote that documents hundreds of pages of news articles, scientific papers, and government documents regarding nuclear power. This is intended to be an intermediate resource for those who wish to learn a little more about the safety and efficacy of nuclear power.",
 	  "newTab": false
     }
   ]

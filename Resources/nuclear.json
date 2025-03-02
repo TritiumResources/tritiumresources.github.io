@@ -1,0 +1,9 @@
+{
+    "markdownModule": [
+    {
+      "source": "Resources/nuclear.md",
+      "download": "Resources/nuclear.pdf",
+	  "description": "Download these Notes!"
+    }
+  ]
+}
