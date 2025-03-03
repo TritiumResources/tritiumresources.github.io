@@ -142,208 +142,208 @@ Nuclear power is absurdly safe, enormously power efficient, incredibly land effi
 
 # Works Cited
 
-2024 manifesto: Downloads. (n.d.). _Green Party_. Retrieved February 28, 2025, from <https://greenparty.org.uk/about/our-manifesto/2024-manifesto-downloads/>
+2024 manifesto: Downloads. (n.d.). _Green Party_. Retrieved February 28, 2025, from [Source Link](https://greenparty.org.uk/about/our-manifesto/2024-manifesto-downloads/)
 
-_A reactor physicist explains Chernobyl_. (n.d.). Retrieved February 28, 2025, from <https://www.ans.org/news/article-3913/a-reactor-physicist-explains-chernobyl/>
+_A reactor physicist explains Chernobyl_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.ans.org/news/article-3913/a-reactor-physicist-explains-chernobyl/)
 
-_About reactor_. (n.d.). Retrieved February 28, 2025, from <https://www.acunextlab.org/about_reactor>
+_About reactor_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.acunextlab.org/about_reactor)
 
-_Antinuclear movement | history, activism & impact | britannica_. (n.d.). Retrieved February 28, 2025, from <https://www.britannica.com/topic/anti-nuclear-movement>
+_Antinuclear movement | history, activism & impact | britannica_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.britannica.com/topic/anti-nuclear-movement)
 
-Assessment, U. E. N. C. for E. (n.d.). _Methylmercury (Mehg) casrn 22967-92-6 | iris | us epa, ord_ \[Reports & Assessments\]. Retrieved February 28, 2025, from <https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73>
+Assessment, U. E. N. C. for E. (n.d.). _Methylmercury (Mehg) casrn 22967-92-6 | iris | us epa, ord_ \[Reports & Assessments\]. Retrieved February 28, 2025, from [Source Link](https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73)
 
-Bailey, R. (2023, May 10). _New study: Nuclear power is humanity’s greenest energy option_. Reason.Com. <https://reason.com/2023/05/10/new-study-nuclear-power-is-humanitys-greenest-energy-option/>
+Bailey, R. (2023, May 10). _New study: Nuclear power is humanity’s greenest energy option_. Reason.Com. [Source Link](https://reason.com/2023/05/10/new-study-nuclear-power-is-humanitys-greenest-energy-option/)
 
-_Basics of nuclear physics and fission—Institute for energy and environmental research_. (n.d.). Retrieved February 28, 2025, from <https://ieer.org/resource/factsheets/basics-nuclear-physics-fission/>
+_Basics of nuclear physics and fission—Institute for energy and environmental research_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://ieer.org/resource/factsheets/basics-nuclear-physics-fission/)
 
-Bennett, J. E., Tamura-Wicks, H., Parks, R. M., Burnett, R. T., Pope, C. A., Bechle, M. J., Marshall, J. D., Danaei, G., & Ezzati, M. (2019). Particulate matter air pollution and national and county life expectancy loss in the USA: A spatiotemporal analysis. _PLoS Medicine_, _16_(7), e1002856. <https://doi.org/10.1371/journal.pmed.1002856>
+Bennett, J. E., Tamura-Wicks, H., Parks, R. M., Burnett, R. T., Pope, C. A., Bechle, M. J., Marshall, J. D., Danaei, G., & Ezzati, M. (2019). Particulate matter air pollution and national and county life expectancy loss in the USA: A spatiotemporal analysis. _PLoS Medicine_, _16_(7), e1002856. [Source Link](https://doi.org/10.1371/journal.pmed.1002856)
 
-_Better than a smoking gun—Straightforward ad against nuclear power from coal industry in AU - Atomic Insights_. (2008, August 26). <https://atomicinsights.com/better-than-a-smoking-gun-straightforward-ad-against-nuclear-power-from-coal-industry-in-au/>
+_Better than a smoking gun—Straightforward ad against nuclear power from coal industry in AU - Atomic Insights_. (2008, August 26). [Source Link](https://atomicinsights.com/better-than-a-smoking-gun-straightforward-ad-against-nuclear-power-from-coal-industry-in-au/)
 
-Brook, B. W. (2012). Could nuclear fission energy, etc., solve the greenhouse problem? The affirmative case. _Energy Policy_, _42_, 4–8. <https://doi.org/10.1016/j.enpol.2011.11.041>
+Brook, B. W. (2012). Could nuclear fission energy, etc., solve the greenhouse problem? The affirmative case. _Energy Policy_, _42_, 4–8. [Source Link](https://doi.org/10.1016/j.enpol.2011.11.041)
 
-Brook, B. W., Alonso, A., Meneley, D. A., Misak, J., Blees, T., & Van Erp, J. B. (2014). Why nuclear energy is sustainable and has to be part of the energy mix. _Sustainable Materials and Technologies_, _1–2_, 8–16. <https://doi.org/10.1016/j.susmat.2014.11.001>
+Brook, B. W., Alonso, A., Meneley, D. A., Misak, J., Blees, T., & Van Erp, J. B. (2014). Why nuclear energy is sustainable and has to be part of the energy mix. _Sustainable Materials and Technologies_, _1–2_, 8–16. [Source Link](https://doi.org/10.1016/j.susmat.2014.11.001)
 
-Burrows, L. (2016, November 14). _Human health risks from hydroelectric projects_. Harvard Gazette. <https://news.harvard.edu/gazette/story/2016/11/human-health-risks-from-hydroelectric-projects/>
+Burrows, L. (2016, November 14). _Human health risks from hydroelectric projects_. Harvard Gazette. [Source Link](https://news.harvard.edu/gazette/story/2016/11/human-health-risks-from-hydroelectric-projects/)
 
-_Chernobyl accident 1986—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident>
+_Chernobyl accident 1986—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident)
 
-_Climate_. (n.d.). Nuclear Matters. Retrieved February 28, 2025, from <https://www.nuclearmatters.com/climate>
+_Climate_. (n.d.). Nuclear Matters. Retrieved February 28, 2025, from [Source Link](https://www.nuclearmatters.com/climate)
 
-_Control rod_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/reading-rm/basic-ref/glossary/control-rod.html>
+_Control rod_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/reading-rm/basic-ref/glossary/control-rod.html)
 
-_Core damage frequency_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/reading-rm/basic-ref/glossary/core-damage-frequency.html>
+_Core damage frequency_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/reading-rm/basic-ref/glossary/core-damage-frequency.html)
 
-_Death rates per unit of electricity production_. (n.d.). Our World in Data. Retrieved February 28, 2025, from <https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh>
+_Death rates per unit of electricity production_. (n.d.). Our World in Data. Retrieved February 28, 2025, from [Source Link](https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh)
 
-Deaths due to the Chernobyl disaster. (2025). In _Wikipedia_. <https://en.wikipedia.org/w/index.php?title=Deaths_due_to_the_Chernobyl_disaster&oldid=1272537985>
+Deaths due to the Chernobyl disaster. (2025). In _Wikipedia_. [Source Link](https://en.wikipedia.org/w/index.php?title=Deaths_due_to_the_Chernobyl_disaster&oldid=1272537985)
 
-Department Of State. The Office of Electronic Information, B. of P. A. (2008, May 9). _Deterring and responding to npt withdrawal by treaty violators_. <https://2001-2009.state.gov/t/isn/rls/other/114120.htm>
+Department Of State. The Office of Electronic Information, B. of P. A. (2008, May 9). _Deterring and responding to npt withdrawal by treaty violators_. [Source Link](https://2001-2009.state.gov/t/isn/rls/other/114120.htm)
 
-_Dragon project_. (n.d.). Nuclear Energy Agency (NEA). Retrieved February 28, 2025, from <https://www.oecd-nea.org/jcms/pl_51567/dragon-project>
+_Dragon project_. (n.d.). Nuclear Energy Agency (NEA). Retrieved February 28, 2025, from [Source Link](https://www.oecd-nea.org/jcms/pl_51567/dragon-project)
 
-_Electricity data browser_. (n.d.). Retrieved February 28, 2025, from <https://www.eia.gov/electricity/data/browser/#/plant/3166/?freq=M&pin=>
+_Electricity data browser_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.eia.gov/electricity/data/browser/#/plant/3166/?freq=M&pin=)
 
-_Enemies of the earth: Unmasking the dirty war against clean energy in south korea by friends of the earth (Foe) and greenpeace_. (2017, October 16). Environmental Progress. <https://environmentalprogress.org/big-news/2017/10/16/enemies-of-the-earth-unmasking-dirty-war-friends-of-earth-greenpeace-south-korea-nuclear-energy>
+_Enemies of the earth: Unmasking the dirty war against clean energy in south korea by friends of the earth (Foe) and greenpeace_. (2017, October 16). Environmental Progress. [Source Link](https://environmentalprogress.org/big-news/2017/10/16/enemies-of-the-earth-unmasking-dirty-war-friends-of-earth-greenpeace-south-korea-nuclear-energy)
 
-Energy.gov. (2023, December 1). _At COP28, Countries Launch Declaration to Triple Nuclear Energy Capacity by 2050, Recognizing the Key Role of Nuclear Energy in Reaching Net Zero_. US Department of Energy; US Department of Energy. <https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key>
+Energy.gov. (2023, December 1). _At COP28, Countries Launch Declaration to Triple Nuclear Energy Capacity by 2050, Recognizing the Key Role of Nuclear Energy in Reaching Net Zero_. US Department of Energy; US Department of Energy. [Source Link](https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nuclear-energy-capacity-2050-recognizing-key)
 
-_Ensuring the safety of nuclear installations: Lessons learned from the fukushima daiichi accident_. (2021, March 3). \[Text\]. <https://www.iaea.org/bulletin/ensuring-the-safety-of-nuclear-installations-lessons-learned-from-the-fukushima-daiichi-accident>
+_Ensuring the safety of nuclear installations: Lessons learned from the fukushima daiichi accident_. (2021, March 3). \[Text\]. [Source Link](https://www.iaea.org/bulletin/ensuring-the-safety-of-nuclear-installations-lessons-learned-from-the-fukushima-daiichi-accident)
 
-_Esso Italiana paid political parties for specific “corporate objectives” including oil instead of nuclear—Atomic Insights_. (2014, August 22). <https://atomicinsights.com/esso-italiana-paid-political-parties/>
+_Esso Italiana paid political parties for specific “corporate objectives” including oil instead of nuclear—Atomic Insights_. (2014, August 22). [Source Link](https://atomicinsights.com/esso-italiana-paid-political-parties/)
 
-_Eurobarometer_. (n.d.). Retrieved February 28, 2025, from <https://europa.eu/eurobarometer/surveys/detail/769>
+_Eurobarometer_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://europa.eu/eurobarometer/surveys/detail/769)
 
-_Extracting uranium from seawater as another source of nuclear fuel_. (n.d.). American Chemical Society. Retrieved February 28, 2025, from <https://www.acs.org/pressroom/presspacs/2023/december/extracting-uranium-from-seawater-as-another-source-of-nuclear-fuel.html>
+_Extracting uranium from seawater as another source of nuclear fuel_. (n.d.). American Chemical Society. Retrieved February 28, 2025, from [Source Link](https://www.acs.org/pressroom/presspacs/2023/december/extracting-uranium-from-seawater-as-another-source-of-nuclear-fuel.html)
 
-_FAQ About Heavy Water_. (2019, April 12). Heavy Water Board; Government of India Department of Atomic Energy. <https://hwb.gov.in/frequently-asked-questions-faqs>
+_FAQ About Heavy Water_. (2019, April 12). Heavy Water Board; Government of India Department of Atomic Energy. [Source Link](https://hwb.gov.in/frequently-asked-questions-faqs)
 
-_Fast-track energy transitions to win the race to zero_. (2021, March 16). <https://www.irena.org/news/pressreleases/2021/mar/fast-track-energy-transitions--to-win-the-race-to-zero>
+_Fast-track energy transitions to win the race to zero_. (2021, March 16). [Source Link](https://www.irena.org/news/pressreleases/2021/mar/fast-track-energy-transitions--to-win-the-race-to-zero)
 
-_Frequently asked chernobyl questions_. (2016, November 7). \[Text\]. <https://www.iaea.org/newscenter/focus/chernobyl/faqs>
+_Frequently asked chernobyl questions_. (2016, November 7). \[Text\]. [Source Link](https://www.iaea.org/newscenter/focus/chernobyl/faqs)
 
-_Frequently asked questions about reactor decommissioning_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/waste/decommissioning/faq.html>
+_Frequently asked questions about reactor decommissioning_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/waste/decommissioning/faq.html)
 
-_Fukushima daiichi accident—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/fukushima-daiichi-accident>
+_Fukushima daiichi accident—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/fukushima-daiichi-accident)
 
-_George mason federated login service_. (n.d.). Retrieved February 28, 2025, from <https://login.gmu.edu/idp/profile/cas/login?execution=e1s1>
+_George mason federated login service_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://login.gmu.edu/idp/profile/cas/login?execution=e1s1)
 
-_Greenpeace’s dirty war on clean energy, part i: South korean version_. (2017, July 25). Environmental Progress. <https://environmentalprogress.org/big-news/2017/7/25/greenpeaces-dirty-war-on-clean-energy-part-i-south-korean-version>
+_Greenpeace’s dirty war on clean energy, part i: South korean version_. (2017, July 25). Environmental Progress. [Source Link](https://environmentalprogress.org/big-news/2017/7/25/greenpeaces-dirty-war-on-clean-energy-part-i-south-korean-version)
 
-Gross, J. (2023, December 2). _At COP28, More Than 20 Nations Pledge to Triple Nuclear Capacity_. New York Times; New York Times. <https://www.nytimes.com/2023/12/02/climate/cop28-nuclear-power.html>
+Gross, J. (2023, December 2). _At COP28, More Than 20 Nations Pledge to Triple Nuclear Capacity_. New York Times; New York Times. [Source Link](https://www.nytimes.com/2023/12/02/climate/cop28-nuclear-power.html)
 
-_How did leaders of the Hydrocarbon Establishment build the foundation for radiation fears? - Atomic Insights_. (2020, May 21). <https://atomicinsights.com/how-did-leaders-of-the-hydrocarbon-establishment-build-the-foundation-for-radiation-fears/>
+_How did leaders of the Hydrocarbon Establishment build the foundation for radiation fears? - Atomic Insights_. (2020, May 21). [Source Link](https://atomicinsights.com/how-did-leaders-of-the-hydrocarbon-establishment-build-the-foundation-for-radiation-fears/)
 
-Hvistendahl, M. (n.d.). _Coal ash is more radioactive than nuclear waste_. Scientific American. Retrieved February 28, 2025, from <https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/>
+Hvistendahl, M. (n.d.). _Coal ash is more radioactive than nuclear waste_. Scientific American. Retrieved February 28, 2025, from [Source Link](https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/)
 
-fDI. (2024, June 19). _US playing catch-up with China over new-gen nuclear power_. <https://www.fdiintelligence.com/content/data-trends/us-playing-catchup-with-china-over-newgen-nuclear-power-83874>
+fDI. (2024, June 19). _US playing catch-up with China over new-gen nuclear power_. [Source Link](https://www.fdiintelligence.com/content/data-trends/us-playing-catchup-with-china-over-newgen-nuclear-power-83874)
 
-_Is nuclear power good for you? - Scienceinsider_. (2013, March 1). <https://web.archive.org/web/20130301082701/http://news.sciencemag.org/scienceinsider/2012/07/is-nuclear-power-good-for-you.html>
+_Is nuclear power good for you? - Scienceinsider_. (2013, March 1). [Source Link](https://web.archive.org/web/20130301082701/http://news.sciencemag.org/scienceinsider/2012/07/is-nuclear-power-good-for-you.html)
 
-Kharecha, P. A., & Hansen, J. E. (2013). Prevented mortality and greenhouse gas emissions from historical and projected nuclear power. _Environmental Science & Technology_, _47_(9), 4889–4895. <https://doi.org/10.1021/es3051197>
+Kharecha, P. A., & Hansen, J. E. (2013). Prevented mortality and greenhouse gas emissions from historical and projected nuclear power. _Environmental Science & Technology_, _47_(9), 4889–4895. [Source Link](https://doi.org/10.1021/es3051197)
 
-NCRP. (2015, June 1). _Ncrp report 174—Ncrp | bethesda, md_. <https://ncrponline.org/publications/reports/ncrp-report-174/>
+NCRP. (2015, June 1). _Ncrp report 174—Ncrp | bethesda, md_. [Source Link](https://ncrponline.org/publications/reports/ncrp-report-174/)
 
-Lieberman, M., & Kim, H.-Y. (2024, December 31). School shootings in 2024: More than last year, but fewer deaths. _Education Week_. <https://www.edweek.org/leadership/school-shootings-in-2024-more-than-last-year-but-fewer-deaths/2024/12>
+Lieberman, M., & Kim, H.-Y. (2024, December 31). School shootings in 2024: More than last year, but fewer deaths. _Education Week_. [Source Link](https://www.edweek.org/leadership/school-shootings-in-2024-more-than-last-year-but-fewer-deaths/2024/12)
 
-Liu, X., Xie, Y., Hao, M., Chen, Z., Yang, H., Waterhouse, G. I. N., Ma, S., & Wang, X. (2022). Highly efficient electrocatalytic uranium extraction from seawater over an amidoxime‐functionalized in–n–c catalyst. _Advanced Science_, _9_(23), 2201735. <https://doi.org/10.1002/advs.202201735>
+Liu, X., Xie, Y., Hao, M., Chen, Z., Yang, H., Waterhouse, G. I. N., Ma, S., & Wang, X. (2022). Highly efficient electrocatalytic uranium extraction from seawater over an amidoxime‐functionalized in–n–c catalyst. _Advanced Science_, _9_(23), 2201735. [Source Link](https://doi.org/10.1002/advs.202201735)
 
-_Megatons to megawatts_. (n.d.). Centrus Energy Corp. Retrieved February 28, 2025, from <https://www.centrusenergy.com/who-we-are/history/megatons-to-megawatts/>
+_Megatons to megawatts_. (n.d.). Centrus Energy Corp. Retrieved February 28, 2025, from [Source Link](https://www.centrusenergy.com/who-we-are/history/megatons-to-megawatts/)
 
-_Mining fatalities rose 21.8 percent from 2020 to 2021: The Economics Daily: U.S. Bureau of Labor Statistics_. (n.d.). Bureau of Labor Statistics. Retrieved February 28, 2025, from <https://www.bls.gov/opub/ted/2023/mining-fatalities-rose-21-8-percent-from-2020-to-2021.htm>
+_Mining fatalities rose 21.8 percent from 2020 to 2021: The Economics Daily: U.S. Bureau of Labor Statistics_. (n.d.). Bureau of Labor Statistics. Retrieved February 28, 2025, from [Source Link](https://www.bls.gov/opub/ted/2023/mining-fatalities-rose-21-8-percent-from-2020-to-2021.htm)
 
-_Molten salt reactors_. (2016, April 13). \[Text\]. <https://www.iaea.org/topics/molten-salt-reactors>
+_Molten salt reactors_. (2016, April 13). \[Text\]. [Source Link](https://www.iaea.org/topics/molten-salt-reactors)
 
-_Molten salt reactors—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/current-and-future-generation/molten-salt-reactors>
+_Molten salt reactors—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/current-and-future-generation/molten-salt-reactors)
 
-_Nuclear 101: How does a nuclear reactor work?_ (n.d.). Energy.Gov. Retrieved February 28, 2025, from <https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work>
+_Nuclear 101: How does a nuclear reactor work?_ (n.d.). Energy.Gov. Retrieved February 28, 2025, from [Source Link](https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work)
 
-_Nuclear decommissioning: Addressing the past and ensuring the future_. (2023, May 17). \[Text\]. <https://www.iaea.org/bulletin/nuclear-decommissioning-addressing-the-past-and-ensuring-the-future>
+_Nuclear decommissioning: Addressing the past and ensuring the future_. (2023, May 17). \[Text\]. [Source Link](https://www.iaea.org/bulletin/nuclear-decommissioning-addressing-the-past-and-ensuring-the-future)
 
-_Nuclear energy—Greenpeace_. (2016, May 24). Greenpeace. <https://www.greenpeace.org/usa/climate/issues/nuclear/>
+_Nuclear energy—Greenpeace_. (2016, May 24). Greenpeace. [Source Link](https://www.greenpeace.org/usa/climate/issues/nuclear/)
 
-_Nuclear essentials—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/nuclear-essentials/are-there-different-types-of-reactor>
+_Nuclear essentials—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/nuclear-essentials/are-there-different-types-of-reactor)
 
-_Nuclear fuel facts: Uranium_. (n.d.). Energy.Gov. Retrieved February 28, 2025, from <https://www.energy.gov/ne/nuclear-fuel-facts-uranium>
+_Nuclear fuel facts: Uranium_. (n.d.). Energy.Gov. Retrieved February 28, 2025, from [Source Link](https://www.energy.gov/ne/nuclear-fuel-facts-uranium)
 
-_Nuclear Power 101_. (2022, January 5). <https://www.nrdc.org/stories/nuclear-power-101>
+_Nuclear Power 101_. (2022, January 5). [Source Link](https://www.nrdc.org/stories/nuclear-power-101)
 
-_Nuclear power becomes completely renewable with extraction of uranium from seawater_. (n.d.). Retrieved February 28, 2025, from <https://www.ans.org/news/article-1882/nuclear-power-becomes-completely-renewable-with-extraction-of-uranium-from-seawater/>
+_Nuclear power becomes completely renewable with extraction of uranium from seawater_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.ans.org/news/article-1882/nuclear-power-becomes-completely-renewable-with-extraction-of-uranium-from-seawater/)
 
-_Nuclear power prevents more deaths than it causes_. (n.d.). Chemical & Engineering News. Retrieved February 28, 2025, from <https://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html>
+_Nuclear power prevents more deaths than it causes_. (n.d.). Chemical & Engineering News. Retrieved February 28, 2025, from [Source Link](https://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html)
 
-_Nuclear terrorism—Imminent threat?_ (n.d.). Center for the Study of Weapons of Mass Destruction. Retrieved February 28, 2025, from <https://wmdcenter.ndu.edu/Publications/Publication-View/Article/1375207/nuclear-terrorism-imminent-threat/https%3A%2F%2Fwmdcenter.ndu.edu%2FPublications%2FPublication-View%2FArticle%2F1375207%2Fnuclear-terrorism-imminent-threat%2F>
+_Nuclear terrorism—Imminent threat?_ (n.d.). Center for the Study of Weapons of Mass Destruction. Retrieved February 28, 2025, from [Source Link](https://wmdcenter.ndu.edu/Publications/Publication-View/Article/1375207/nuclear-terrorism-imminent-threat/https%3A%2F%2Fwmdcenter.ndu.edu%2FPublications%2FPublication-View%2FArticle%2F1375207%2Fnuclear-terrorism-imminent-threat%2F)
 
-_Nuclear weapon—Fission, fusion, yield | britannica_. (2025, February 21). <https://www.britannica.com/technology/nuclear-weapon/Principles-of-atomic-fission-weapons>
+_Nuclear weapon—Fission, fusion, yield | britannica_. (2025, February 21). [Source Link](https://www.britannica.com/technology/nuclear-weapon/Principles-of-atomic-fission-weapons)
 
 Operational Safety. (2016, February). _Upgrades to Backup Safety Systems Part of Fukushima Response_. NEI; NEI.
 
-_Plant-specific safety enhancements after fukushima_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/reactors/operating/ops-experience/fukushima.html>
+_Plant-specific safety enhancements after fukushima_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/reactors/operating/ops-experience/fukushima.html)
 
-_Processing of used nuclear fuel—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/nuclear-fuel-cycle/fuel-recycling/processing-of-used-nuclear-fuel>
+_Processing of used nuclear fuel—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/nuclear-fuel-cycle/fuel-recycling/processing-of-used-nuclear-fuel)
 
-_Public attitudes to nuclear power_. (n.d.). Nuclear Energy Agency (NEA). Retrieved February 28, 2025, from <https://www.oecd-nea.org/jcms/pl_14534/public-attitudes-to-nuclear-power?details=true>
+_Public attitudes to nuclear power_. (n.d.). Nuclear Energy Agency (NEA). Retrieved February 28, 2025, from [Source Link](https://www.oecd-nea.org/jcms/pl_14534/public-attitudes-to-nuclear-power?details=true)
 
-_Public support for nuclear stays at record highs, but misconceptions remain a problem_. (n.d.). Retrieved February 28, 2025, from <https://www.ans.org/news/article-5070/public-support-for-nuclear-stays-at-record-highs-but-misconceptions-remain-a-problem/>
+_Public support for nuclear stays at record highs, but misconceptions remain a problem_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.ans.org/news/article-5070/public-support-for-nuclear-stays-at-record-highs-but-misconceptions-remain-a-problem/)
 
-_Pyroprocess development_. (2016, June 24). <https://web.archive.org/web/20160624220930/http://www.ne.anl.gov/nce/pyroprocessing/>
+_Pyroprocess development_. (2016, June 24). [Source Link](https://web.archive.org/web/20160624220930/http://www.ne.anl.gov/nce/pyroprocessing/)
 
-_Refresh—Putting the axe to the “scram” myth_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/reading-rm/basic-ref/students/history-101/putting-axe-to-scram-myth.html>
+_Refresh—Putting the axe to the “scram” myth_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/reading-rm/basic-ref/students/history-101/putting-axe-to-scram-myth.html)
 
-_Reprocessing_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/materials/reprocessing.html>
+_Reprocessing_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/materials/reprocessing.html)
 
-Reynolds, P. (2024, March 18). _The truth about carbon footprints_. Conservation Law Foundation. <https://www.clf.org/blog/the-truth-about-carbon-footprints/>
+Reynolds, P. (2024, March 18). _The truth about carbon footprints_. Conservation Law Foundation. [Source Link](https://www.clf.org/blog/the-truth-about-carbon-footprints/)
 
-Richter, B. (2012). Opinion on “worldwide health effects of the fukushima daiichi nuclear accident” by j. E. Ten hoeve and m. Z. Jacobson, energy environ. Sci. , 2012, 5, doi: 10. 1039/c2ee22019a. _Energy & Environmental Science_, _5_(9), 8758–8759. <https://doi.org/10.1039/C2EE22658H>
+Richter, B. (2012). Opinion on “worldwide health effects of the fukushima daiichi nuclear accident” by j. E. Ten hoeve and m. Z. Jacobson, energy environ. Sci. , 2012, 5, doi: 10. 1039/c2ee22019a. _Energy & Environmental Science_, _5_(9), 8758–8759. [Source Link](https://doi.org/10.1039/C2EE22658H)
 
-_Safety of nuclear power reactors—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors>
+_Safety of nuclear power reactors—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors)
 
-Schumann, A. (2018, April 24). _Fact sheet: Nuclear proliferation risks in nuclear energy programs_. Center for Arms Control and Non-Proliferation. <https://armscontrolcenter.org/nuclear-proliferation-risks-in-nuclear-energy-programs/>
+Schumann, A. (2018, April 24). _Fact sheet: Nuclear proliferation risks in nuclear energy programs_. Center for Arms Control and Non-Proliferation. [Source Link](https://armscontrolcenter.org/nuclear-proliferation-risks-in-nuclear-energy-programs/)
 
-Shellenberger, M. (n.d.). _The real reason they hate nuclear is because it means we don’t need renewables_. Forbes. Retrieved February 28, 2025, from <https://www.forbes.com/sites/michaelshellenberger/2019/02/14/the-real-reason-they-hate-nuclear-is-because-it-means-we-dont-need-renewables/>
+Shellenberger, M. (n.d.). _The real reason they hate nuclear is because it means we don’t need renewables_. Forbes. Retrieved February 28, 2025, from [Source Link](https://www.forbes.com/sites/michaelshellenberger/2019/02/14/the-real-reason-they-hate-nuclear-is-because-it-means-we-dont-need-renewables/)
 
-Silverstein, K. (n.d.). _Are fossil fuel interests bankrolling the anti-nuclear energy movement?_ Forbes. Retrieved February 28, 2025, from <https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/>
+Silverstein, K. (n.d.). _Are fossil fuel interests bankrolling the anti-nuclear energy movement?_ Forbes. Retrieved February 28, 2025, from [Source Link](https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/)
 
-_Spent fuel storage in pools and dry casks key points and questions & answers_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/waste/spent-fuel-storage/faqs.html>
+_Spent fuel storage in pools and dry casks key points and questions & answers_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/waste/spent-fuel-storage/faqs.html)
 
-_St. Francis dam (California, 1928) | case study | asdso lessons learned_. (n.d.). Retrieved February 28, 2025, from <https://damfailures.org/case-study/st-francis-dam-california-1928/>
+_St. Francis dam (California, 1928) | case study | asdso lessons learned_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://damfailures.org/case-study/st-francis-dam-california-1928/)
 
-_Storage and disposal of radioactive waste—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/storage-and-disposal-of-radioactive-waste>
+_Storage and disposal of radioactive waste—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-waste/storage-and-disposal-of-radioactive-waste)
 
-_Storage of spent nuclear fuel_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/waste/spent-fuel-storage.html>
+_Storage of spent nuclear fuel_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/waste/spent-fuel-storage.html)
 
-Sustainable Development. (2015, July 9). _Land Needs for Wind, Solar Dwarf Nuclear Plant’s Footprint_. NEI; NEI. <https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants>
+Sustainable Development. (2015, July 9). _Land Needs for Wind, Solar Dwarf Nuclear Plant’s Footprint_. NEI; NEI. [Source Link](https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants)
 
-_The Chornobyl Accident_. (n.d.). United Nations : Scientific Committee on the Effects of Atomic Radiation. Retrieved February 28, 2025, from <https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html>
+_The Chornobyl Accident_. (n.d.). United Nations : Scientific Committee on the Effects of Atomic Radiation. Retrieved February 28, 2025, from [Source Link](https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html)
 
-_The fusion-fission hybrid reactor for energy production—A practical path to fusion application_. (n.d.). Retrieved February 28, 2025, from <https://inis.iaea.org/records/m6s3f-03q34>
+_The fusion-fission hybrid reactor for energy production—A practical path to fusion application_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://inis.iaea.org/records/m6s3f-03q34)
 
-_The geological society of london—Geological disposal of radioactive waste_. (n.d.). Retrieved February 28, 2025, from <https://www.geolsoc.org.uk/gdrw>
+_The geological society of london—Geological disposal of radioactive waste_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.geolsoc.org.uk/gdrw)
 
-_The iaea and the non-proliferation treaty_. (2016, June 8). \[Text\]. <https://www.iaea.org/topics/non-proliferation-treaty>
+_The iaea and the non-proliferation treaty_. (2016, June 8). \[Text\]. [Source Link](https://www.iaea.org/topics/non-proliferation-treaty)
 
-The Nuclear Institute. (2022, June 30). _Decarbonisation of the Energy Supply by 2035 Consultation Response_. The Nuclear Institute; The Nuclear Institute. <https://nuclearinst.com/write/MediaUploads/Consultations/Nuclear_Institute_Response_to_Decarbonisation_of_the_energy_supply_FINAL.pdf>
+The Nuclear Institute. (2022, June 30). _Decarbonisation of the Energy Supply by 2035 Consultation Response_. The Nuclear Institute; The Nuclear Institute. [Source Link](https://nuclearinst.com/write/MediaUploads/Consultations/Nuclear_Institute_Response_to_Decarbonisation_of_the_energy_supply_FINAL.pdf)
 
-_The political economic determinants of nuclear power: Evidence from chernobyl | alexey makarin | tuesday 28 february 2023 14:00 - 15:30 | sticerd event_. (n.d.). STICERD | Events | Political Science and Political Economy Research Seminar. Retrieved February 28, 2025, from <https://conference.nber.org/conf_papers/f205791.pdf>
+_The political economic determinants of nuclear power: Evidence from chernobyl | alexey makarin | tuesday 28 february 2023 14:00 - 15:30 | sticerd event_. (n.d.). STICERD | Events | Political Science and Political Economy Research Seminar. Retrieved February 28, 2025, from [Source Link](https://conference.nber.org/conf_papers/f205791.pdf)
 
-_The road not taken: Can Fukushima put us on a path toward nuclear transparency? | Bulletin of the Atomic Scientists_. (2011, May 11). <https://web.archive.org/web/20110511111643/http://thebulletin.org/web-edition/columnists/kennette-benedict/the-road-not-taken-can-fukushima-put-us-path-toward-nuclear>
+_The road not taken: Can Fukushima put us on a path toward nuclear transparency? | Bulletin of the Atomic Scientists_. (2011, May 11). [Source Link](https://web.archive.org/web/20110511111643/http://thebulletin.org/web-edition/columnists/kennette-benedict/the-road-not-taken-can-fukushima-put-us-path-toward-nuclear)
 
-_The ultimate fast facts guide to nuclear energy_. (n.d.). Energy.Gov. Retrieved February 28, 2025, from <https://www.energy.gov/ne/articles/ultimate-fast-facts-guide-nuclear-energy>
+_The ultimate fast facts guide to nuclear energy_. (n.d.). Energy.Gov. Retrieved February 28, 2025, from [Source Link](https://www.energy.gov/ne/articles/ultimate-fast-facts-guide-nuclear-energy)
 
-_The war on nuclear_. (n.d.). Environmental Progress. Retrieved February 28, 2025, from <https://environmentalprogress.org/the-war-on-nuclear>
+_The war on nuclear_. (n.d.). Environmental Progress. Retrieved February 28, 2025, from [Source Link](https://environmentalprogress.org/the-war-on-nuclear)
 
-_Third way_. (n.d.). Retrieved February 28, 2025, from <https://www.thirdway.org/memo/status-report-americas-competitive-advantage-in-advanced-nuclear>
+_Third way_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://www.thirdway.org/memo/status-report-americas-competitive-advantage-in-advanced-nuclear)
 
-_Thorium’s long-term potential in nuclear energy_. (2023a, September 14). \[Text\]. <https://www.iaea.org/bulletin/thoriums-long-term-potential-in-nuclear-energy>
+_Thorium’s long-term potential in nuclear energy_. (2023a, September 14). \[Text\]. [Source Link](https://www.iaea.org/bulletin/thoriums-long-term-potential-in-nuclear-energy)
 
-_Thorium’s long-term potential in nuclear energy: New iaea analysis_. (2023b, March 13). \[Text\]. <https://www.iaea.org/newscenter/news/thoriums-long-term-potential-in-nuclear-energy-new-iaea-analysis>
+_Thorium’s long-term potential in nuclear energy: New iaea analysis_. (2023b, March 13). \[Text\]. [Source Link](https://www.iaea.org/newscenter/news/thoriums-long-term-potential-in-nuclear-energy-new-iaea-analysis)
 
-_Thorium—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/current-and-future-generation/thorium>
+_Thorium—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/current-and-future-generation/thorium)
 
-_Thyroid cancer_. (n.d.-a). Retrieved February 28, 2025, from <https://www.hopkinsmedicine.org/health/conditions-and-diseases/thyroid-cancer>
+_Thyroid cancer_. (n.d.-a). Retrieved February 28, 2025, from [Source Link](https://www.hopkinsmedicine.org/health/conditions-and-diseases/thyroid-cancer)
 
-_Thyroid Cancer: Types, symptoms, causes & treatment_. (n.d.-b). Cleveland Clinic. Retrieved February 28, 2025, from <https://my.clevelandclinic.org/health/diseases/12210-thyroid-cancer>
+_Thyroid Cancer: Types, symptoms, causes & treatment_. (n.d.-b). Cleveland Clinic. Retrieved February 28, 2025, from [Source Link](https://my.clevelandclinic.org/health/diseases/12210-thyroid-cancer)
 
-_Transportation of spent nuclear fuel_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/waste/spent-fuel-transp.html>
+_Transportation of spent nuclear fuel_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/waste/spent-fuel-transp.html)
 
-_Unoda treaties database_. (n.d.). Retrieved February 28, 2025, from <https://treaties.unoda.org/t/npt>
+_Unoda treaties database_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://treaties.unoda.org/t/npt)
 
-_Uranium enrichment—World nuclear association_. (n.d.). Retrieved February 28, 2025, from <https://world-nuclear.org/information-library/nuclear-fuel-cycle/conversion-enrichment-and-fabrication/uranium-enrichment#:~:text=Isotope%20separation%20is%20a%20physical%20process%20to,fuel.%20This%20is%20normal%20low%2Denriched%20uranium%20(LEU)>
+_Uranium enrichment—World nuclear association_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://world-nuclear.org/information-library/nuclear-fuel-cycle/conversion-enrichment-and-fabrication/uranium-enrichment)
 
-_Uranium from seawater factors into nuclear power_. (n.d.). Retrieved February 28, 2025, from <https://news.stanford.edu/stories/2017/02/uranium-seawater-factors-nuclear-power>
+_Uranium from seawater factors into nuclear power_. (n.d.). Retrieved February 28, 2025, from [Source Link](https://news.stanford.edu/stories/2017/02/uranium-seawater-factors-nuclear-power)
 
-_W19 molten salt reactors: Rethinking the fuel cycle_. (n.d.). NRC Web. Retrieved February 28, 2025, from <https://www.nrc.gov/public-involve/conference-symposia/ric/past/2022/docs/abstracts/sessionabstract-19.html>
+_W19 molten salt reactors: Rethinking the fuel cycle_. (n.d.). NRC Web. Retrieved February 28, 2025, from [Source Link](https://www.nrc.gov/public-involve/conference-symposia/ric/past/2022/docs/abstracts/sessionabstract-19.html)
 
-_What are Small Modular Reactors (SMR s)?_ (2023, September 13). \[Text\]. <https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs>
+_What are Small Modular Reactors (SMR s)?_ (2023, September 13). \[Text\]. [Source Link](https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs)
 
-_Will a new law and lots of cash be enough to jumpstart next-gen…_. (2024, July 1). Canary Media. <https://www.canarymedia.com/articles/nuclear/will-a-new-law-and-lots-of-cash-be-enough-to-jumpstart-next-gen-nuclear>
+_Will a new law and lots of cash be enough to jumpstart next-gen…_. (2024, July 1). Canary Media. [Source Link](https://www.canarymedia.com/articles/nuclear/will-a-new-law-and-lots-of-cash-be-enough-to-jumpstart-next-gen-nuclear)
 
-Williams, M. (2022, August 30). _Nuclear power and water consumption_ \[Text\]. Smart Water Magazine. <https://smartwatermagazine.com/news/membracon/nuclear-power-and-water-consumption>
+Williams, M. (2022, August 30). _Nuclear power and water consumption_ \[Text\]. Smart Water Magazine. [Source Link](https://smartwatermagazine.com/news/membracon/nuclear-power-and-water-consumption)
 
-World-Nuclear. (2015). _Nuclear Power Reactor Characteristics_. World-Nuclear; World-Nuclear. <https://world-nuclear.org/images/articles/Pocket%20Guide%20Reactors.pdf>
+World-Nuclear. (2015). _Nuclear Power Reactor Characteristics_. World-Nuclear; World-Nuclear. [Source Link](https://world-nuclear.org/images/articles/Pocket%20Guide%20Reactors.pdf)
 
-_Would the U. S. Sanction allies seeking the bomb?_ (n.d.). Carnegie Endowment for International Peace. Retrieved February 28, 2025, from <https://carnegieendowment.org/research/2023/04/would-the-us-sanction-allies-seeking-the-bomb?lang=en>
+_Would the U. S. Sanction allies seeking the bomb?_ (n.d.). Carnegie Endowment for International Peace. Retrieved February 28, 2025, from [Source Link](https://carnegieendowment.org/research/2023/04/would-the-us-sanction-allies-seeking-the-bomb?lang=en)
 
-Zappa, W., Junginger, M., & Van Den Broek, M. (2019). Is a 100% renewable European power system feasible by 2050? _Applied Energy_, _233–234_, 1027–1050. <https://doi.org/10.1016/j.apenergy.2018.08.109>
+Zappa, W., Junginger, M., & Van Den Broek, M. (2019). Is a 100% renewable European power system feasible by 2050? _Applied Energy_, _233–234_, 1027–1050. [Source Link](https://doi.org/10.1016/j.apenergy.2018.08.109)
 
-Zhang, Y., Wang, Y., Dong, Z., Wang, Y., Liu, Y., Cao, X., Zhang, Z., Xu, C., Wang, N., & Liu, Y. (2024). Boosting uranium extraction from Seawater by micro-redox reactors anchored in a seaweed-like adsorbent. _Nature Communications_, _15_(1), 9124. <https://doi.org/10.1038/s41467-024-53366-3>
+Zhang, Y., Wang, Y., Dong, Z., Wang, Y., Liu, Y., Cao, X., Zhang, Z., Xu, C., Wang, N., & Liu, Y. (2024). Boosting uranium extraction from Seawater by micro-redox reactors anchored in a seaweed-like adsorbent. _Nature Communications_, _15_(1), 9124. [Source Link](https://doi.org/10.1038/s41467-024-53366-3)
